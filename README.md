@@ -1,2 +1,2 @@
 # Verificador-senhas
-Verifica se as senhas está correta selecionadas estão corretas
+Verifica se as senhas selecionadas estão corretas
