@@ -11,6 +11,7 @@
 
 # Bibliotecas utilizadas
  - Selenium
+ - WebDriver Manager
  - OpenPyXl
  - TKiniter
  - Time
